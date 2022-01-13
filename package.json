@@ -1,5 +1,5 @@
 {
-  "name": "@burgossrodrigo/hokkfi-sdk-heco",
+  "name": "@hokk/sdk-heco",
   "license": "MIT",
   "version": "1.0.0",
   "description": "🛠 An SDK for building applications on heco of HOKKFI.",
