@@ -1,16 +1,16 @@
 {
-  "name": "@mdex/heco-sdk",
+  "name": "@hokkfi/sdk-heco",
   "license": "MIT",
-  "version": "1.0.1",
-  "description": "🛠 An SDK for building applications on heco of MDEX.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on heco of HOKKFI.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/mdexSwap/heco-sdk.git",
+  "repository": "https://github.com/burgossrodrigo/hokkfi-sdk-heco.git",
   "keywords": [
-    "mdex",
+    "Hokkfi",
     "heco",
     "swap"
   ],
